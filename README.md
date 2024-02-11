@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ralf@MeierSoft
-- 👀 I’m interested in DataHistorians (time series databases).
-- 💞️ I’m looking to collaborate on DataHistorians.
+- Hi, I’m Ralf@MeierSoft
+- I’m interested in DataHistorians (time series databases).
+- I’m looking to collaborate on DataHistorians.
 
 <!---
 MeierSoft/MeierSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
